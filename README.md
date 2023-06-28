@@ -1,4 +1,4 @@
-<h1>Arena Virtual Sports<img src="https://cdn-icons-png.flaticon.com/128/3379/3379077.png" width="60"></h1>
+## Arena Virtual Sports
 <p>Projeto feito para fazer raspagem de site de apostas e fazer a Análise desses dados.<br>Futuramente irei colocar para essas análises acontencer no próprio software<br> Atualmente ele só esta pegando ranking de jogadores podendo manipular de data até outra data, e ordenando por pontuação desse jogador.<br>Já na tela de jogos esta sendo manipulado o nome da liga, a season, o horario desses partidas, o nome, time, gols, e gols no primeiro tempo do player 1 e player 2<br>além, de você poder ver e análisar esses player e jogos de datas passadas armazenado.<br><br>
 web scraping from the website database https://www.cyberarena.live/schedule-efootball, save in excel file (csv) for data analysis<br><br>Sistema para Windows-Desktop</p>
 <h2>Technologies and Tools used <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" width="40"><img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" width="40"></h2>
